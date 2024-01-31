@@ -1,5 +1,5 @@
 ![image](https://github.com/Abhilashkonda77/Abhilashkonda77/assets/92944744/aae73867-c612-4f33-80b8-ddf4334da00a)<h1 align="center">Hi 👋, I'm Abhilash Konda</h1>
-<h3 align="center">Looking for Web Development Opportunities and To Work with java environment</h3>
+<h3 align="center">Looking for Full Stack development and Cloud engineer Opportunities and To Work with java environment</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashkonda77&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashkonda77" /> </p>
 
