@@ -72,7 +72,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="30" width="30" alt="hackerrank"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/21215a0501" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-geeksforgeeks-a-computer-science-portal-for-geeks-logo-color-tal-revivo.png" height="30" width="30" alt="geeksforgeeks"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-geeksforgeeks-a-computer-science-portal-for-geeks-logo-color-tal-revivo.png" height="30" width="30" alt="geeksforgeeks"/>
   </a>
 </p>
 
@@ -80,5 +80,6 @@
 
 ### 📊 Activity Graph
 
-[![Abhilash's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhilashkonda77&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhilashkonda77&theme=react-dark&bg_color=000000&hide_border=true" alt="activity-graph" />
+</p>
