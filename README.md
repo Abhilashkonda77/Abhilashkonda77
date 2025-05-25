@@ -20,7 +20,7 @@
 - 🧠 Certifications:  
   - Google Cloud Certified – Associate Cloud Engineer  
   - Ping Identity – PingAM Professional  
-- 📄 [View My Resume](https://drive.google.com/file/d/1Tqmjp3FNawh7ycTESlCrA7j8xaCCp5_R/view?usp=share_link)
+- 📄 [View My Resume]([https://drive.google.com/file/d/1Tqmjp3FNawh7ycTESlCrA7j8xaCCp5_R/view?usp=share_link](https://drive.google.com/file/d/1B4tiukbod35BRjpbIZuMhpkxZXxeBx2x/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
