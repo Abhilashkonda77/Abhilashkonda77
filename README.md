@@ -1,79 +1,84 @@
 <h1 align="center">Hi 👋, I'm Abhilash Konda</h1>
 <h3 align="center">DevOps Engineer | IAM Consultant | Cloud Automation Enthusiast</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhilashkonda77&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashkonda77" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhilashkonda77" alt="abhilashkonda77" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abhilashkonda77&theme=darkhub&margin-w=15" alt="abhilashkonda77" />
   </a>
 </p>
 
-- 🔧 Currently working as a **DevOps Engineer / IAM Consultant**  
+---
+
+- 🔧 Working as a **DevOps Engineer / IAM Consultant** at Sechay Solutions  
 - ☁️ Skilled in **AWS, GCP, Kubernetes, Docker, Terraform, Jenkins, Helm**  
-- 🔐 Experienced in **ForgeRock IAM (AM, IDM), OAuth2, OIDC, JWT, PKCE**  
-- 🔄 Built CI/CD pipelines, automated testing & monitoring systems (Grafana, Prometheus, Dynatrace)  
-- 📊 Passionate about infrastructure automation, cloud security, and scalable deployments  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abhilashkonda/)  
-- 🧠 Certifications:  
-  - Google Cloud Certified – Associate Cloud Engineer  
-  - Ping Identity – PingAM Professional  
-- 📄 [View My Resume]([https://drive.google.com/file/d/1Tqmjp3FNawh7ycTESlCrA7j8xaCCp5_R/view?usp=share_link](https://drive.google.com/file/d/1B4tiukbod35BRjpbIZuMhpkxZXxeBx2x/view?usp=sharing))
+- 🔐 Experienced in **ForgeRock AM/IDM, SailPoint IIQ, OAuth2, OIDC, PKCE, JWT**  
+- 🔄 Built CI/CD pipelines, container orchestration, and proactive monitoring systems  
+- 🧪 Deployed **SailPoint IdentityNow** in Minikube with Kubernetes and Helm charts  
+- 📊 Passionate about infrastructure automation, cloud IAM, and secure deployments  
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/abhilashkonda/)  
+- 📄 [View My Resume](https://drive.google.com/file/d/1B4tiukbod35BRjpbIZuMhpkxZXxeBx2x/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🔭 Currently Exploring
+
+- ⚙️ Advanced CI/CD pipelines with **GitHub Actions**, **Jenkins**, and **GitLab CI**
+- 🧩 Infrastructure as Code using **Terraform** and **Helm**
+- ☸️ Kubernetes production-grade patterns: **GitOps**, **Helmfile**, **Secrets management**
+- 📦 Monitoring & Observability with **Prometheus**, **Grafana**, and **Loki**
+- 🔐 IAM & SSO integration using **ForgeRock** and **SailPoint**
+
+---
+
+### 🧰 Tech Stack
+
 <p align="left">
-  <a href="https://sites.google.com/view/abhisportfolio" target="blank">
-    <img align="center" src="https://img.icons8.com/?size=512&id=V1lF5vupgVFS&format=png" alt="portfolio" height="30" width="40" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,git,helm,linux,bash,java,python,html,css,javascript,mongodb,mysql" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilashkonda77&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilashkonda77&show_icons=true&locale=en&theme=tokyonight" alt="github-stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashkonda77&theme=tokyonight" alt="streak-stats" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://sites.google.com/view/abhisportfolio" target="_blank">
+    <img src="https://img.icons8.com/color/48/domain.png" height="30" width="30" alt="portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/abhilashkonda/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/abhilashkonda/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="30" width="30" alt="linkedin"/>
   </a>
-  <a href="https://instagram.com/__abhilash.abhi__._" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  <a href="https://instagram.com/__abhilash.abhi__._" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" height="30" width="30" alt="instagram"/>
   </a>
-  <a href="https://www.hackerrank.com/@abhilashkonda" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+  <a href="https://www.hackerrank.com/@abhilashkonda" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="30" width="30" alt="hackerrank"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/21215a0501" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" />
+  <a href="https://auth.geeksforgeeks.org/user/21215a0501" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-geeksforgeeks-a-computer-science-portal-for-geeks-logo-color-tal-revivo.png" height="30" width="30" alt="geeksforgeeks"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cloudgoogle/cloudgoogle-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilashkonda77&show_icons=true&locale=en&layout=compact" alt="abhilashkonda77" /></p>
+### 📊 Activity Graph
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilashkonda77&show_icons=true&locale=en" alt="abhilashkonda77" /></p>
+[![Abhilash's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhilashkonda77&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashkonda77&" alt="abhilashkonda77" /></p>
